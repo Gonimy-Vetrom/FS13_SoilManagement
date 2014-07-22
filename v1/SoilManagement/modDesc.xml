@@ -24,8 +24,8 @@ Decker_MMIV - fs-uk.com, forum.farming-simulator.com, modhoster.com]]>
         </de>
         <ru>
 <![CDATA['SoilMod' добавляет пользовательский контроль роста сельскохозяйственных культур и некоторые новые аспекты
-того, как и когда использовать навоз, суспензии, синтетический удобрения, известь и гербицид. Такие функции,
-как "рН почвы", 3 различных типов удобрений/гербицида и «отдаленных последствий», которые были добавлены.
+того, как и когда использовать навоз, суспензии, синтетический удобрения, известь и гербицид. Были добавлены такие 
+функции, как "рН почвы", 3 различных типов удобрений/гербицидов и «отдаленные воздействия».
 Decker_MMIV - FS-uk.com, forum.farming-simulator.com, modhoster.com]]>
         </ru>
     </description>
@@ -38,7 +38,7 @@ Decker_MMIV - FS-uk.com, forum.farming-simulator.com, modhoster.com]]>
         <text name="SOILMOD_GROWNOW">
             <en>SoilMod:Grow NOW!</en>
             <de>SoilMod:JETZT wachsen!</de>
-            <ru>SoilMod:Растет сейчас!</ru>
+            <ru>SoilMod:Сейчас растет!</ru>
         </text>
         <text name="GrowthPct">
             <en>Growth %d%%</en>
@@ -112,7 +112,7 @@ Decker_MMIV - FS-uk.com, forum.farming-simulator.com, modhoster.com]]>
         <text name="phNeutral">
             <en>Neutral</en>
             <de>Neutral</de>
-            <ru>Нейтральный</ru>
+            <ru>Нейтральная</ru>
         </text>
         <text name="phSlightAlkalinity">
             <en>Slight alkalinity</en>
