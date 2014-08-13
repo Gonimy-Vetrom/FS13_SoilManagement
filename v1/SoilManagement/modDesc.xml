@@ -45,7 +45,7 @@ Decker_MMIV - fs-uk.com, forum.farming-simulator.com, modhoster.com]]>
         <text name="SOILMOD_GROWNOW">
             <en>SoilMod:Grow NOW!</en>
             <de>SoilMod:JETZT wachsen!</de>
-            <ru>SoilMod:Сейчас растет!</ru>
+            <ru>SoilMod:Запустить рост!</ru>
             <cz>SoilMod:Okamžitý růst!</cz>
         </text>
         <text name="GrowthPct">
